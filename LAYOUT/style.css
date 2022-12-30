@@ -1,21 +1,22 @@
 body {
     background: #2C2B3D;
     color: rgb(255, 255, 255);
+    overflow: hidden;
 }
 
 div {
     margin: auto;
     width: 1083px;
-    margin: 71px 98px 23px 98px;
+    margin: 31px 98px 23px 98px;
 }
 
-header nav {
+nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 1083px;
     height: 30px;
-    margin-bottom: 101px;
+    margin-bottom: 75px;
 }
 
 ul {
